@@ -1,0 +1,904 @@
+{
+    "cats": [
+        {
+            "name": "casper",
+            "breed": "domestic_short_hair",
+            "age": "adult",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tan"
+        },
+        {
+            "name": "smokey",
+            "breed": "ocicat",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "black"
+        },
+        {
+            "name": "belle",
+            "breed": "hairless_cat",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "cream"
+        },
+        {
+            "name": "pumpkin",
+            "breed": "somali",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "brown"
+        },
+        {
+            "name": "jake",
+            "breed": "sphynx",
+            "age": "senior",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "calico"
+        },
+        {
+            "name": "dusty",
+            "breed": "birman",
+            "age": "senior",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "black"
+        },
+        {
+            "name": "sweetie",
+            "breed": "oriental_short_hair",
+            "age": "young",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "gray"
+        },
+        {
+            "name": "muffin",
+            "breed": "british_shorthair",
+            "age": "adult",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "black"
+        },
+        {
+            "name": "romeo",
+            "breed": "havana",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "brown"
+        },
+        {
+            "name": "oscar",
+            "breed": "nebelung",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "tuxedo"
+        },
+        {
+            "name": "scooter",
+            "breed": "korat",
+            "age": "adult",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "chocolate"
+        },
+        {
+            "name": "sasha",
+            "breed": "calico",
+            "age": "young",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "chocolate"
+        },
+        {
+            "name": "angel",
+            "breed": "tuxedo",
+            "age": "adult",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tan"
+        },
+        {
+            "name": "tiger",
+            "breed": "munchkin",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tan"
+        },
+        {
+            "name": "maggie",
+            "breed": "american_curl",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "black"
+        },
+        {
+            "name": "max",
+            "breed": "tabby",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tuxedo"
+        },
+        {
+            "name": "lily",
+            "breed": "tabby",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "gray"
+        },
+        {
+            "name": "molly",
+            "breed": "snowshoe",
+            "age": "kitten",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "cream"
+        },
+        {
+            "name": "midnight",
+            "breed": "tortoiseshell",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "ivory"
+        },
+        {
+            "name": "frankie",
+            "breed": "turkish_van",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "white"
+        },
+        {
+            "name": "elvis",
+            "breed": "cymric",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "smoke"
+        },
+        {
+            "name": "lucy",
+            "breed": "norwegian_forest_cat",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "brown"
+        },
+        {
+            "name": "fiona",
+            "breed": "sphynx",
+            "age": "adult",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "chocolate"
+        },
+        {
+            "name": "romeo",
+            "breed": "domestic_short_hair",
+            "age": "adult",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "white"
+        },
+        {
+            "name": "muffin",
+            "breed": "pixiebob",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "white"
+        },
+        {
+            "name": "panda",
+            "breed": "dilute_calico",
+            "age": "kitten",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "gray"
+        },
+        {
+            "name": "zeus",
+            "breed": "balinese",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "tuxedo"
+        },
+        {
+            "name": "elvis",
+            "breed": "applehead_siamese",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tan"
+        },
+        {
+            "name": "daisy",
+            "breed": "turkish_angora",
+            "age": "senior",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "chocolate"
+        },
+        {
+            "name": "tucker",
+            "breed": "oriental_tabby",
+            "age": "young",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "tuxedo"
+        },
+        {
+            "name": "dusty",
+            "breed": "siberian",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tuxedo"
+        },
+        {
+            "name": "rusty",
+            "breed": "ragamuffin",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "ivory"
+        },
+        {
+            "name": "missy",
+            "breed": "tiger",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "black"
+        },
+        {
+            "name": "kiki",
+            "breed": "korat",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "tan"
+        },
+        {
+            "name": "oscar",
+            "breed": "himalayan",
+            "age": "adult",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "brown"
+        },
+        {
+            "name": "baby",
+            "breed": "ragdoll",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "brown"
+        },
+        {
+            "name": "baby",
+            "breed": "nebelung",
+            "age": "senior",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "ivory"
+        },
+        {
+            "name": "jack",
+            "breed": "ocicat",
+            "age": "kitten",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "smoke"
+        },
+        {
+            "name": "kiki",
+            "breed": "american_wirehair",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "gray"
+        },
+        {
+            "name": "frankie",
+            "breed": "russian_blue",
+            "age": "adult",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "ivory"
+        },
+        {
+            "name": "cali",
+            "breed": "oriental_short_hair",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "white"
+        },
+        {
+            "name": "charlie",
+            "breed": "domestic_long_hair",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "brown"
+        },
+        {
+            "name": "molly",
+            "breed": "korat",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "silver"
+        },
+        {
+            "name": "loki",
+            "breed": "oriental_short_hair",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "brown"
+        },
+        {
+            "name": "max",
+            "breed": "japanese_bobtail",
+            "age": "young",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "silver"
+        },
+        {
+            "name": "peanut",
+            "breed": "bombay",
+            "age": "senior",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "gray"
+        },
+        {
+            "name": "tucker",
+            "breed": "nebelung",
+            "age": "adult",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "black"
+        },
+        {
+            "name": "belle",
+            "breed": "himalayan",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "brown"
+        },
+        {
+            "name": "molly",
+            "breed": "ragamuffin",
+            "age": "young",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "calico"
+        },
+        {
+            "name": "sasha",
+            "breed": "chinchilla",
+            "age": "senior",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "brown"
+        },
+        {
+            "name": "simba",
+            "breed": "hairless_cat",
+            "age": "senior",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "white"
+        },
+        {
+            "name": "nala",
+            "breed": "himalayan",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "silver"
+        },
+        {
+            "name": "angel",
+            "breed": "american_curl",
+            "age": "young",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "silver"
+        },
+        {
+            "name": "mittens",
+            "breed": "tonkinese",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "silver"
+        },
+        {
+            "name": "salem",
+            "breed": "bengal",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "tan"
+        },
+        {
+            "name": "buddy",
+            "breed": "silver",
+            "age": "young",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "black"
+        },
+        {
+            "name": "toby",
+            "breed": "cornish_rex",
+            "age": "kitten",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "silver"
+        },
+        {
+            "name": "coco",
+            "breed": "cornish_rex",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "gray"
+        },
+        {
+            "name": "boo",
+            "breed": "pixiebob",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "ivory"
+        },
+        {
+            "name": "harley",
+            "breed": "tiger",
+            "age": "senior",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "cream"
+        },
+        {
+            "name": "casper",
+            "breed": "cymric",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "calico"
+        },
+        {
+            "name": "blackie",
+            "breed": "turkish_angora",
+            "age": "kitten",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "tan"
+        },
+        {
+            "name": "leo",
+            "breed": "siberian",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "tuxedo"
+        },
+        {
+            "name": "misty",
+            "breed": "york_chocolate",
+            "age": "senior",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "cream"
+        },
+        {
+            "name": "callie",
+            "breed": "singapura",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "ivory"
+        },
+        {
+            "name": "maddie",
+            "breed": "ragdoll",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "tuxedo"
+        },
+        {
+            "name": "houdini",
+            "breed": "tiger",
+            "age": "young",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "tan"
+        },
+        {
+            "name": "tiger",
+            "breed": "pixiebob",
+            "age": "kitten",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "tuxedo"
+        },
+        {
+            "name": "elvis",
+            "breed": "domestic_medium_hair",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "chocolate"
+        },
+        {
+            "name": "daisy",
+            "breed": "scottish_fold",
+            "age": "young",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "gray"
+        },
+        {
+            "name": "shakira",
+            "breed": "dilute_calico",
+            "age": "young",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "calico"
+        },
+        {
+            "name": "panda",
+            "breed": "bombay",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "black"
+        },
+        {
+            "name": "sophie",
+            "breed": "bengal",
+            "age": "senior",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "chocolate"
+        },
+        {
+            "name": "batman",
+            "breed": "norwegian_forest_cat",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "white"
+        },
+        {
+            "name": "smokey",
+            "breed": "devon_rex",
+            "age": "young",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "gray"
+        },
+        {
+            "name": "molly",
+            "breed": "york_chocolate",
+            "age": "adult",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "black"
+        },
+        {
+            "name": "cher",
+            "breed": "japanese_bobtail",
+            "age": "kitten",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "cream"
+        },
+        {
+            "name": "sammy",
+            "breed": "korat",
+            "age": "adult",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "cream"
+        },
+        {
+            "name": "oliver",
+            "breed": "russian_blue",
+            "age": "senior",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "black"
+        },
+        {
+            "name": "chester",
+            "breed": "russian_blue",
+            "age": "adult",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "long",
+            "color": "gray"
+        },
+        {
+            "name": "sebastian",
+            "breed": "birman",
+            "age": "senior",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "tuxedo"
+        },
+        {
+            "name": "bailey",
+            "breed": "nebelung",
+            "age": "senior",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "tuxedo"
+        },
+        {
+            "name": "cupcake",
+            "breed": "manx",
+            "age": "adult",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "black"
+        },
+        {
+            "name": "milo",
+            "breed": "domestic_medium_hair",
+            "age": "adult",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "tan"
+        },
+        {
+            "name": "dusty",
+            "breed": "domestic_medium_hair",
+            "age": "adult",
+            "size": "large",
+            "gender": "female",
+            "coatLength": "medium",
+            "color": "tan"
+        },
+        {
+            "name": "boomer",
+            "breed": "domestic_short_hair",
+            "age": "senior",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "tan"
+        },
+        {
+            "name": "simba",
+            "breed": "himalayan",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "silver"
+        },
+        {
+            "name": "daisy",
+            "breed": "devon_rex",
+            "age": "young",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "medium",
+            "color": "smoke"
+        },
+        {
+            "name": "fluffy",
+            "breed": "javanese",
+            "age": "kitten",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "cream"
+        },
+        {
+            "name": "charlie",
+            "breed": "himalayan",
+            "age": "adult",
+            "size": "small",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "smoke"
+        },
+        {
+            "name": "shakira",
+            "breed": "toyger",
+            "age": "adult",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "ivory"
+        },
+        {
+            "name": "leo",
+            "breed": "american_shorthair",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "ivory"
+        },
+        {
+            "name": "ziggy",
+            "breed": "siberian",
+            "age": "young",
+            "size": "small",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "tan"
+        },
+        {
+            "name": "callie",
+            "breed": "abyssinian",
+            "age": "adult",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "ivory"
+        },
+        {
+            "name": "rocky",
+            "breed": "burmilla",
+            "age": "kitten",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "short",
+            "color": "brown"
+        },
+        {
+            "name": "sweetie",
+            "breed": "norwegian_forest_cat",
+            "age": "kitten",
+            "size": "extra_large",
+            "gender": "female",
+            "coatLength": "short",
+            "color": "calico"
+        },
+        {
+            "name": "garfield",
+            "breed": "himalayan",
+            "age": "young",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "long",
+            "color": "ivory"
+        },
+        {
+            "name": "lucy",
+            "breed": "silver",
+            "age": "adult",
+            "size": "medium",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "tuxedo"
+        },
+        {
+            "name": "cher",
+            "breed": "abyssinian",
+            "age": "senior",
+            "size": "medium",
+            "gender": "female",
+            "coatLength": "hairless",
+            "color": "smoke"
+        },
+        {
+            "name": "scooter",
+            "breed": "munchkin",
+            "age": "senior",
+            "size": "large",
+            "gender": "male",
+            "coatLength": "hairless",
+            "color": "smoke"
+        }
+    ]
+}
