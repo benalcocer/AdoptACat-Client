@@ -23,6 +23,9 @@ public class CommandLineArguments {
     public String server;
 
     // Output parameters
+    @Parameter(names = "-all", description = "Get all of the cats")
+    public boolean getAll = false;
+
     @Parameter(names = "-csv", description = "Output results to a given CSV file. Example: -csv ./csvOut.csv", converter = FileConverter.class)
     public File csvOut;
 
