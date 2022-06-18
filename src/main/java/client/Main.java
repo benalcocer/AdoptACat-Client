@@ -24,7 +24,13 @@ public class Main {
         JCommander jCommander = JCommander.newBuilder().addObject(jArgs).build();
 
         // Parse arguments
-        boolean parseSuccess = true;
+        boolean parseSuccess = args.length != 0;
+        if (!parseSuccess) {
+            // No parameters given
+            jCommander.usage();
+            return;
+        }
+
         try {
             jCommander.parse(args);
         } catch (ParameterException parameterException) {
@@ -59,7 +65,7 @@ public class Main {
                 if (paramDescription.isAssigned()) {
                     if (paramDescription.getNames().equals("-server")) {
                       server = jArgs.server;
-                    } else {
+                    } else if (!jArgs.getAll) {
                         if (assignedParamCount != 0) {
                             filters.append("&");
                         }
